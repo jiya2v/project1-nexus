@@ -1,1 +1,2 @@
 # project1-nexus
+The provided HTML, CSS, and JavaScript code creates an aesthetically pleasing login and signup page with a responsive design. It features a dynamic background image, clear welcome messages, and interactive login and signup containers. The styling incorporates gradient colors, decorative elements, and form validation, providing an engaging user experience across various devices. The JavaScript ensures that the login and signup buttons toggle between the respective forms, enhancing the overall functionality of the page.
